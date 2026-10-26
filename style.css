@@ -1,0 +1,51 @@
+body {
+    margin-top: 30px;
+    text-align: center;
+    background-image: url(https://media.discordapp.net/attachments/1552611889631207495/1563375425961332786/campus-scene.jpg?ex=6adf6093&is=6ade0f13&hm=e4b43fb86524bb93613a9c7764cf0757e4dd40a567e7e97079caf01e6e041374&=&format=webp&width=1024&height=671);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 60vh;                                                                      
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: #152924;
+    font-size: 50px;
+}
+p {
+    color: #506154;
+}
+.logo {
+    font-size: 20x;
+    font-weight: bold;
+}
+.label {
+    background-color: #9cc7bd;
+    padding: 8px 15px;
+    border-radius: 20px;
+    display: inline-block;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+}
+    
+button {
+    background-color: #44817a;
+    color: azure;
+    border-radius: 10px;
+}
+.btn {
+    display: inline-block;
+    background-color: #437a79;
+    color: white;
+    padding: 8px 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    margin: 5px;
+}
+.secondary {
+    background-color: #d0d4c3;
+    color: #152924;
+}

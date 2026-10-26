@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    margin: 110px;
+    background-image: url(https://media.discordapp.net/attachments/1532241942430089367/1563999544218226829/WhatsApp_Image_2026-10-25_at_11.48.22_PM.jpeg?ex=6adfab95&is=6ade5a15&hm=55806c59ccf29352049b329f9fcd943f8d76e17ed4949082e6ca5d6ed79593fe&=&format=webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: Arial, sans-serif;   
+}
+h1 {
+    color: #a31704;
+    font-size: 50px;
+}
+h2 {
+    color: #e17029;
+}
+p {
+    color: #534e3c;
+}
+.label {
+    background-color: #fb9b13;
+    padding: 8px 15px;
+    border-radius: 20px;
+    display: inline-block;
+}
+ul {
+    display: table;
+    margin: auto;
+    color: #45390b;
+}
